@@ -44,3 +44,7 @@ Thumbs.db
 # Package lock files (optional - keep if you want consistent installs)
 # package-lock.json
 # yarn.lock
+
+# Archives
+*.zip
+**/*.zip
